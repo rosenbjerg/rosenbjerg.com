@@ -1,0 +1,4 @@
+baseURL = 'https://rosenbjerg.com/'
+languageCode = 'en-uk'
+title = 'Rosenbjerg Software Solutions'
+theme = 'tella'
